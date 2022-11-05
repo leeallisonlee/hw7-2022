@@ -1,2 +1,2 @@
 # hw7-2022
-Adding JavaScript to webpage elements and videos using Event Listeners
+Starter Code for HW7 - JavaScript basics with Video
